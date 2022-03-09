@@ -5,6 +5,6 @@
 
 Projeto da Plataforma [Alura](https://www.alura.com.br/) que visa solidificar os conceitos de responsividade e mobile first. 
 <div align="center">
-![Projeto_final_Desktop](https://user-images.githubusercontent.com/87020059/157481734-b7a2f179-cc4a-40e6-b38b-f61e13caa8b5.png)
+ ![Projeto_final_Desktop](https://github.com/paulooliveirv/Apperia-Alura/issues/1#issue-1164143812)
 
  </div>
