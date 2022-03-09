@@ -11,7 +11,7 @@
 > ![final_mobile](https://user-images.githubusercontent.com/87020059/157481448-b62bd35e-9782-41a8-89de-60d028c57e40.png)
  
 
-Projeto Finalizado Mobile
+### Projeto Finalizado Mobile
 
 
 > > ![final_desktop](https://user-images.githubusercontent.com/87020059/157481734-b7a2f179-cc4a-40e6-b38b-f61e13caa8b5.png)
@@ -19,7 +19,7 @@ Projeto Finalizado Mobile
 
 
 
-Projeto Finalizado Desktop
+### Projeto Finalizado Desktop
  </div>
 
 ## Bagagem
